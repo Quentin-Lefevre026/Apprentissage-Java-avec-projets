@@ -1,3 +1,3 @@
-ordre chronologique des projets (1 étant e plus vieux) : 
+ordre chronologique des projets (1 étant le plus vieux) : 
 1. Calculatrice
 2. TODO List
