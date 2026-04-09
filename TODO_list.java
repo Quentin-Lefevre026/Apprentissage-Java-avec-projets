@@ -12,7 +12,7 @@ public class TODO_list{
             int choix = sc.nextInt();
             if (choix == 1){
                 System.out.print("Entrez une nouvelle tache : ");
-                String retour = sc.nextLine();
+                sc.nextLine();
                 String tache = sc.nextLine();
                 taches.add(tache);
             }
